@@ -13,4 +13,4 @@ For Linux, the Python programming language is alredy preinstalled on most distri
 #!/usr/bin/env bash
 python3 $HOME/alpha2phon.py "$@"
 </pre>
-Then, move the file to <code>/usr/bin</code>.
+Then run <code>chmod u+x alpha2phon</code>, after that, move the file to <code>/usr/bin</code>.
